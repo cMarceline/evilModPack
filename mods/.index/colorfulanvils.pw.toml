@@ -1,0 +1,16 @@
+filename = 'colorfulanvils-1.2.0+1.20.x.jar'
+name = 'Colorful Anvils'
+side = 'server'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e3fe1ee4d97d364453987d65745c4aa59566572309b63a9c9784058939ba427650228e39e51ce9e669ad222d04b87131fc467ff1c666a41c95de1852d4c7fe2d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Di6KteGa/versions/2RmWRyLP/colorfulanvils-1.2.0%2B1.20.x.jar'
+
+[update.modrinth]
+mod-id = 'Di6KteGa'
+version = '2RmWRyLP'

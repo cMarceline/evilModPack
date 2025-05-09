@@ -1,0 +1,16 @@
+filename = 'bigpony-1.11.2+1.20.1.jar'
+name = 'Big Pony'
+side = 'client'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a193bbb3dd65e29c2e31f5ae9ced8a46ba455cd39a2b661a4fc81aa97434772276d6dcf967f03aa3455bf4a1a4c0d5c5ddcb34e17a4332e1dcd6854cbaff933f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/h9pJxJR9/versions/Py1YQnif/bigpony-1.11.2%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'h9pJxJR9'
+version = 'Py1YQnif'

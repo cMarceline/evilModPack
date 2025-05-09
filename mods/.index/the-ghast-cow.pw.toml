@@ -1,0 +1,16 @@
+filename = 'GhastCow-fabric-1.20.1-2.0.0.jar'
+name = 'The Ghast Cow'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'f66dc46e5346cc114be2b360f16fb437d1f5e2fe1856913f2fcd8c9a6d707a9887b94c7c3d87db86e699f8e66b2274f85961aed211d9463eae9793549d7d9706'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/XDDlmPmY/versions/ebpFFaWM/GhastCow-fabric-1.20.1-2.0.0.jar'
+
+[update.modrinth]
+mod-id = 'XDDlmPmY'
+version = 'ebpFFaWM'

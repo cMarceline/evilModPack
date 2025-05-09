@@ -1,0 +1,16 @@
+filename = 'letsdo-candlelight-fabric-2.0.4.jar'
+name = "[Let's Do] Candlelight - Farm&Charm compat"
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '20047cb75d7c88332ae4a703473dbe6da79a5303c52bc332acb9733ba2ff1f05005ebc07b74422921b395169b3b40c47721a5a87e2333026d7768bfbc763ec7b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/qwbArkQk/versions/FdI5FhHe/letsdo-candlelight-fabric-2.0.4.jar'
+
+[update.modrinth]
+mod-id = 'qwbArkQk'
+version = 'FdI5FhHe'

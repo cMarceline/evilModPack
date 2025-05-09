@@ -1,0 +1,16 @@
+filename = 'crittersandcompanions-fabric-2.2.2.jar'
+name = 'Critters and Companions'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'aec6307d5cea4532673a83b85b41978d204589692f85989689bf2bf8afa775b73ff9bbdd4398905b311cd77e75645c158c8d489fe481dfc047a4dda404108281'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Yd4wb5wZ/versions/aUJDlQHP/crittersandcompanions-fabric-2.2.2.jar'
+
+[update.modrinth]
+mod-id = 'Yd4wb5wZ'
+version = 'aUJDlQHP'

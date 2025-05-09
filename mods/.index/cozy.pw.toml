@@ -1,0 +1,16 @@
+filename = 'cozy-1.1.1-fabric.jar'
+name = 'Cozy'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c50d37850d2591504cea2f91b7e681b5aaf3214cee5e0dea9a3b1345238a8fa0863077bc621be37c859506dd6e47b09a45e4a649369f6d4b3d39c5a918a2d4bd'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Bg6Ed4OL/versions/E5KbCPLa/cozy-1.1.1-fabric.jar'
+
+[update.modrinth]
+mod-id = 'Bg6Ed4OL'
+version = 'E5KbCPLa'

@@ -1,0 +1,16 @@
+filename = 'pettable-1.4.0.jar'
+name = 'Pettable'
+side = 'client'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1a574ca95dabf02787d6731970b42b395428a54307f257acc0061f8e78b6419a11fb7c2aea96b166c0febef312f3df484b4f12ecfb9b2fd0cc28802d7e8d2b95'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/PFVwk20g/versions/PXgMRzTt/pettable-1.4.0.jar'
+
+[update.modrinth]
+mod-id = 'PFVwk20g'
+version = 'PXgMRzTt'

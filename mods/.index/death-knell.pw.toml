@@ -1,0 +1,16 @@
+filename = 'DeathKnell-Fabric-1.20.1-10.0.4.jar'
+name = 'Death Knell'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '64e75db0182b4d7137672c2376a459bbd69305703d45bd1d3ee87a3104ae2da88641d9de7e3d2a9ee2d63a737d612cc9fecf866daa247229752ec23602ac6841'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/WNdd2blX/versions/uHhWhmfH/DeathKnell-Fabric-1.20.1-10.0.4.jar'
+
+[update.modrinth]
+mod-id = 'WNdd2blX'
+version = 'uHhWhmfH'

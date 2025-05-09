@@ -1,0 +1,16 @@
+filename = 'pressalttomeow-1.0.4.jar'
+name = 'Press Alt To Meow'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e9c82fa94996707766b5031a1642f78706208c58eb1acfc2696c6c9d3cdcf5f37b75e8b92680f0bbf4b00a0576accd90d0980f3127ef7dc70a14503b8399ab34'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/EjH4M3L1/versions/iDEYGuh6/pressalttomeow-1.0.4.jar'
+
+[update.modrinth]
+mod-id = 'EjH4M3L1'
+version = 'iDEYGuh6'

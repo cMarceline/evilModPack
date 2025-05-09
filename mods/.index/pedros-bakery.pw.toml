@@ -1,0 +1,16 @@
+filename = 'pedrosbakery-0.3.0-beta+1.20.jar'
+name = "Pedro's Bakery"
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '53e0b31fda4fe3a1607f10984b43c849d3e2278fdac5cd76da1509ceaace96458f03c50df222d33f3578e0825ff463b5952dc5110897183f6d540a2cff5097de'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/z75kKcUH/versions/mZ37qJHQ/pedrosbakery-0.3.0-beta%2B1.20.jar'
+
+[update.modrinth]
+mod-id = 'z75kKcUH'
+version = 'mZ37qJHQ'
