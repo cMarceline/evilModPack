@@ -1,0 +1,16 @@
+filename = 'wthit-fabric-8.16.2.jar'
+name = 'WTHIT'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1ad1fbc7e1b98f99b9b5f4b29397b69aba491631dcf42b456b8ed6d20f77c216bdc31e8eb98e204847fb69295f966b0b7471881a6a1f53055de053e4af4147d2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6AQIaxuO/versions/cTi1XkjJ/wthit-fabric-8.16.2.jar'
+
+[update.modrinth]
+mod-id = '6AQIaxuO'
+version = 'cTi1XkjJ'
