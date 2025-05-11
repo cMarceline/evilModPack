@@ -1,0 +1,16 @@
+filename = 'MTR-fabric-4.0.0-prerelease.1+1.20.1.jar'
+name = 'Minecraft Transit Railway'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '362925473b10b068147fec14b564f6ca5bb24a47d5cf1cc266f355e23fea7c0daf6f7cc6201d93b6e75cb1c0d88ff967d0d9afc1d7baf0f228817006d4f7dc71'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/XKPAmI6u/versions/Bqd0L1xb/MTR-fabric-4.0.0-prerelease.1%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'XKPAmI6u'
+version = 'Bqd0L1xb'

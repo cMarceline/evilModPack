@@ -1,0 +1,16 @@
+filename = 'youaremypoison-1.0.1-1.20.1-fabric.jar'
+name = 'You Are My Poison!'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c4f7ecf910609fb8e6ea50bccdead56f23ef1684fff5f335fd8c594ab0e753512c713cb4652631b841702df944a76c68451ffb4989ae10c9ba179c7aeb5c3890'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6XSTKnYM/versions/FHLcn1rj/youaremypoison-1.0.1-1.20.1-fabric.jar'
+
+[update.modrinth]
+mod-id = '6XSTKnYM'
+version = 'FHLcn1rj'

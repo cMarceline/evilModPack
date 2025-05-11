@@ -1,0 +1,16 @@
+filename = 'mcw-paths-1.1.0fabric-mc1.20.1.jar'
+name = "Macaw's Paths and Pavings"
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7d2a3973a0d79a4e2793eb76cbfe050659b872688349c8d0c24f0cb2e7d616e5243b73dbe4dc95216eaa1b65dcc06f351c1bee8e0424f4900d6fb4ed1842ec10'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/VRLhWB91/versions/fNu9PbhG/mcw-paths-1.1.0fabric-mc1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'VRLhWB91'
+version = 'fNu9PbhG'

@@ -1,0 +1,16 @@
+filename = 'expcounter-1.20.1-fabric-2.jar'
+name = 'EXP Counter'
+side = 'client'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1b7a29bbac6ce3c76b9dfdab2edb95552be939f78096689c1cb1bc710072cff181d3506b036287c8f165f2d1beb88572cfbe8417925304ca18a950822613499d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/lPSTdJm7/versions/iXQjSAUa/expcounter-1.20.1-fabric-2.jar'
+
+[update.modrinth]
+mod-id = 'lPSTdJm7'
+version = 'iXQjSAUa'

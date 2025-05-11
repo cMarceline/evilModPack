@@ -1,0 +1,16 @@
+filename = 'wmitaf-fabric-mc1.19.3-3.2.0.jar'
+name = 'WMITAF'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19.3', '1.19.4', '1.20', '1.20.1', '1.20.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '0e167931c4456e5abeeb4dece83b3d17d8ba3714d16b83a03416e03d0a266d4fb055d9de366f182adbce9ea0580824a9f487651c06b5da4697f556b3f2eee735'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/mk6pNnsq/versions/nt3oWgc9/wmitaf-fabric-mc1.19.3-3.2.0.jar'
+
+[update.modrinth]
+mod-id = 'mk6pNnsq'
+version = 'nt3oWgc9'

@@ -1,0 +1,16 @@
+filename = 'splashfox-1.1.2.jar'
+name = 'SplashFox'
+side = 'client'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ff07a8926bf486580991b6a0bcdd180b42aaf779559d2b888c9df129f01cfd277af8f3c9231fa4bb88f3a4c654adf199fc56ef71c61a736d0ac4caa74595ddbb'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/a59NK2Js/versions/tXbOlqg3/splashfox-1.1.2.jar'
+
+[update.modrinth]
+mod-id = 'a59NK2Js'
+version = 'tXbOlqg3'

@@ -1,0 +1,16 @@
+filename = 'Autism-1.0.0.jar'
+name = 'Autism'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd2d8f64854a60803e9f5bcf0a10d5e960033bbaefaed0a1dca6d7fff078be697e8ad0d7dd1f3c697c08f89e3e3b647ca0a07b96bdaba2fd8931014477b9a2e72'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/XzbXU1rm/versions/QaSqjoBG/Autism-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'XzbXU1rm'
+version = 'QaSqjoBG'

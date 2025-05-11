@@ -1,0 +1,20 @@
+# Don't change this! Version used to track needed updates.
+version = 0
+bakingTrayMinSize = 4
+bakingTrayMaxSize = 16
+bakingTrayDefaultSize = 8
+bakingTrayMinHeight = 4
+bakingTrayMaxHeight = 16
+bakingTrayDefaultHeight = 8
+maxCakeHeight = 128
+biteSize = 2.0
+ticksUntilCakeBaked = 2000
+ticksUntilPieBaked = 2000
+cakeRenderQuality = "ALL_BORDERS"
+beaterBatterAmount = 4
+cakeBiteFood = 2
+cakeBiteSaturation = 0.1
+cupcakeFood = 2
+cupcakeSaturation = 0.1
+pieSliceFood = 2
+pieSliceSaturation = 0.1

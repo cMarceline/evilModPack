@@ -1,0 +1,16 @@
+filename = 'milk_plus-5.0.59.jar'
+name = 'Milk+'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '583537147c4bba72371a5a107325ba517dff7fe272f7cf5e53fefab0a9f7c5f959251bbf3058ac494ada51011d98901bd011b143a1f8f49006507108605cc21c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/OCxj9VC8/versions/hlS5XQgk/milk_plus-5.0.59.jar'
+
+[update.modrinth]
+mod-id = 'OCxj9VC8'
+version = 'hlS5XQgk'

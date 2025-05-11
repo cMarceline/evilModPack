@@ -1,0 +1,16 @@
+filename = 'BlockBoy-0.8.1+1.20.1.jar'
+name = 'BlockBoy'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b20a6bda1eb08d2f834c86e10733aac2d2ac6c2e15c3977b8437460bae59cd5ecd8171a97d954691a0ecb6139651f5d81d01dc9b49bdf22f5154318ed30b4a5c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/2dhWbQDa/versions/KaqQ2CY9/BlockBoy-0.8.1%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = '2dhWbQDa'
+version = 'KaqQ2CY9'

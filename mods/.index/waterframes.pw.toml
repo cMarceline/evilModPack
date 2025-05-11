@@ -1,0 +1,16 @@
+filename = 'waterframes-FABRIC-mc1.20.1-v2.1.12c.jar'
+name = 'WATERFrAMES: Multimedia Displays'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '3bb81abf53f4080ead4326623b671ff7236ff86cf34967b47f79a64a8c1fc8cda41cfab854adae77a016eeb0228c1b8c525f916b5798d70330c10246a8d34042'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/eBzFuVTM/versions/OIroJuKI/waterframes-FABRIC-mc1.20.1-v2.1.12c.jar'
+
+[update.modrinth]
+mod-id = 'eBzFuVTM'
+version = 'OIroJuKI'

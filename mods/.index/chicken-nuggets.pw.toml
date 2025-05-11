@@ -1,0 +1,16 @@
+filename = 'chicken_nugget-1.1.0.jar'
+name = 'Chicken Nuggets'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '4ab5316a3b87057bf6cff9c6a3a1a1ea678eb019970ec9ec8fc718b5907a78a9c82f6d21a9e167b4b7faaf5ee6f8a334f29e61d929a8194d2644350a61c1e0a0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/8rvvvvAy/versions/wmwOEJ3n/chicken_nugget-1.1.0.jar'
+
+[update.modrinth]
+mod-id = '8rvvvvAy'
+version = 'wmwOEJ3n'

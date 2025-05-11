@@ -1,0 +1,4 @@
+#Chance for the raw chicken nugget, when used as Potato Cannon ammo, to cause Nausea. 0 ~ 1, set to 0 to disable
+ammo_nausea_chance = 0.3
+#Whether the Suspicious nugget should attempt to teleport the consumer behind the nearest player
+do_suspicious_teleport = true
